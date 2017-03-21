@@ -12,3 +12,16 @@ body {
 #level_image {
 	height: 500px;
 }
+
+#text{
+	color: black
+	font-size: 5px;
+}
+
+#option2{
+	display: none;
+}
+
+#option3{
+	display: none;
+}
